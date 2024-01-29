@@ -1,0 +1,27 @@
+{
+  "name": "ronin",
+  "displayName": "Ronin",
+  "description": "A relaxing dark theme inspired by Kanagawa.",
+  "version": "1.0.0",
+  "publisher": "Zach Bauer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azbauer8/ronin"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ronin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ronin-color-theme.json"
+      }
+    ]
+  }
+}
