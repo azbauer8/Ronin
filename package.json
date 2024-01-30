@@ -2,8 +2,9 @@
   "name": "ronin",
   "displayName": "Ronin",
   "description": "A relaxing dark theme inspired by Kanagawa.",
+  "icon": "icon.png",
   "version": "1.0.0",
-  "publisher": "Zach Bauer",
+  "publisher": "ZachBauer",
   "license": "MIT",
   "repository": {
     "type": "git",
