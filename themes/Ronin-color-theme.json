@@ -734,7 +734,7 @@
       }
     },
     {
-      "scope": ["variable", "string constant.other.placeholder"],
+      "scope": ["variable", "string constant.other.placeholder", "meta.tag"],
       "settings": {
         "foreground": "#DCD7BA"
       }
@@ -778,7 +778,6 @@
       "scope": [
         "keyword.control",
         "constant.other.color",
-        "meta.tag",
         "keyword.other.template",
         "keyword.other.substitution",
         "keyword.other"
