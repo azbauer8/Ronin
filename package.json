@@ -3,7 +3,7 @@
   "displayName": "Ronin",
   "description": "A relaxing dark theme inspired by Kanagawa.",
   "icon": "icon.png",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "publisher": "ZachBauer",
   "license": "MIT",
   "repository": {
@@ -21,7 +21,12 @@
       {
         "label": "Ronin",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ronin-color-theme.json"
+        "path": "./themes/Ronin.json"
+      },
+         {
+        "label": "Ronin Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ronin-Darker.json"
       }
     ]
   }
